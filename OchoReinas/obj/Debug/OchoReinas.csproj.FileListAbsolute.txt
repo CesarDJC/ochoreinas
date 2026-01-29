@@ -1,0 +1,11 @@
+C:\Users\Cesar\source\repos\OchoReinas\OchoReinas\bin\Debug\OchoReinas.exe.config
+C:\Users\Cesar\source\repos\OchoReinas\OchoReinas\bin\Debug\OchoReinas.exe
+C:\Users\Cesar\source\repos\OchoReinas\OchoReinas\bin\Debug\OchoReinas.pdb
+C:\Users\Cesar\source\repos\OchoReinas\OchoReinas\obj\Debug\OchoReinas.csproj.AssemblyReference.cache
+C:\Users\Cesar\source\repos\OchoReinas\OchoReinas\obj\Debug\OchoReinas.Form1.resources
+C:\Users\Cesar\source\repos\OchoReinas\OchoReinas\obj\Debug\OchoReinas.Properties.Resources.resources
+C:\Users\Cesar\source\repos\OchoReinas\OchoReinas\obj\Debug\OchoReinas.csproj.GenerateResource.cache
+C:\Users\Cesar\source\repos\OchoReinas\OchoReinas\obj\Debug\OchoReinas.csproj.CoreCompileInputs.cache
+C:\Users\Cesar\source\repos\OchoReinas\OchoReinas\obj\Debug\OchoReinas.exe
+C:\Users\Cesar\source\repos\OchoReinas\OchoReinas\obj\Debug\OchoReinas.pdb
+C:\Users\Cesar\source\repos\OchoReinas\OchoReinas\obj\Debug\OchoReinas.exe.config
