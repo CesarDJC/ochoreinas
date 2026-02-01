@@ -14,7 +14,7 @@ namespace OchoReinas
     {
 
         private const int N = 8;
-        private int[] reinas = new int[N]; // fila -> columna
+        private int[] reinas = new int[N]; 
         private List<int[]> soluciones = new List<int[]>();
         private int indiceSolucion = 0;
 
@@ -34,6 +34,10 @@ namespace OchoReinas
             Text = "Problema de las 8 Reinas";
             Width = 450;
             Height = 520;
+
+            StartPosition = FormStartPosition.CenterScreen;
+            FormBorderStyle = FormBorderStyle.FixedSingle;
+            MaximizeBox = false;
 
 
             panelTablero = new Panel
@@ -164,7 +168,7 @@ namespace OchoReinas
             }
 
 
-            // Dibujar las reinas como círculos negros centrados
+
             int margen = size / 6;
             int diametro = size - margen * 2;
 
